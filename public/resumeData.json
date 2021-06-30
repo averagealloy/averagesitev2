@@ -6,26 +6,25 @@
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Hey, it looks like you want to connect.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "m.mctighe10@gmail.com",
+    "phone": "516-254-1530",
     "address": {
-      "street": "(Your Street)",
-      "city": "New York",
+      "city": "Rockville Centre",
       "state": "New York",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": "11570"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/michaelmctighe516/",
         "className": "fa fa-linkedin"
       },
 
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/averagealloy",
         "className": "fa fa-github"
       }
     ]
@@ -99,34 +98,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Checkin",
+        "category": "Google chrome extension that helps users remove barriers while accomplishing goals.",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://chrome.google.com/webstore/detail/check-in/anejnbmjehibbfieedlklnhhnmiopmdm?hl=en&authuser=0"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
+        "title": "CashDash",
+        "category": "A React and Rails application that allows a user to make accounts, deposits, and withdrawals",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://github.com/averagealloy/cashdash-api"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "Deaddit",
+        "category": "JavaScript and Rails application that is a message board that allows users to create comments and posts",
         "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "https://github.com/averagealloy/deaddit_api"
       }
     ]
   },

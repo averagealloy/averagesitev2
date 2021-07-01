@@ -2,9 +2,9 @@
   "main": {
     "name": "Michael McTighe",
     "occupation": "Software Engineer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "I am great at failing forward. As long as I learn something, I am moving in the right direction.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "I am a creative problem solver with experience building full-stack web services using JavaScript, React/Redux, and Ruby on Rails. After taking a course on programming logic, I was hooked on the path of Software Engineering.",
     "contactmessage": "Hey, it looks like you want to connect.",
     "email": "m.mctighe10@gmail.com",
     "phone": "516-254-1530",
@@ -30,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My skills at this time are centered around full-stack web development but I am adding to the list as we speak!",
     "education": [
       {
         "school": "The Flatiron school",
